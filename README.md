@@ -20,4 +20,4 @@ I don't want to claim my ownership on the things I make. Quite the opposite, I t
 
 ❤️ [Support my work](https://github.com/sponsors/orsinium) if any of my projects saved your day.
 
-Read more at 🧠 [orsinium.dev](https://orsinium.dev/).
+It's hard to list here all my work. I have over 100 original open-source projects and numerous contributions. Read more at 🧠 [orsinium.dev](https://orsinium.dev/).
