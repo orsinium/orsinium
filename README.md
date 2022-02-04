@@ -17,7 +17,7 @@ I don't want to claim my ownership on the things I make. Quite the opposite, I t
 + 🔬 [orsinium-labs](https://github.com/orsinium-labs): small projects that don't need much maintenance.
 + 💾 [orsinium-archive](https://github.com/orsinium-archive): projects that are still cool but will never get new changes.
 + 🔥 [dephell](https://github.com/dephell): dephell ecosystem, mostly libraries related to Python packaging.
-+ 🍴 [orsinium-forks](https://github.com/orsinium-archive): ignore this one.
++ 🍴 [orsinium-forks](https://github.com/orsinium-forks): ignore this one.
 
 ❤️ [Support my work](https://github.com/sponsors/orsinium) if any of my projects saved your day.
 
